@@ -1,0 +1,9 @@
+/renv
+/.Rproj.user
+
+# Github isn't good for huge datasets (which we might have if we used parcel data) 
+/data
+
+# OS rubbish
+.DS_store
+.desktopini

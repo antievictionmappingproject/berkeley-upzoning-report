@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aemp-nathan",
+  "private_key_id": "480a0e99667941c06558d7f40636c7fbc2735232",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOMcIZXd+UDRgV\n62NHsSu/BlAL4J7UTtLRGUpFz0hcpGsZoQyUkEHvx0ijA42Q6Geo/ah1K4OIGFTF\nyhn7ruEjRAowkfkJ7Iry4Lq4E6BxXoEvzg3uIC3IOZj2gR4JMj1enIo33Gx8dpS5\nWhkxa0ACFr5ISWR/dlbJQCGuiExCpNwJsdvpshXU9Bwkjw61nQTKeFJcHJAa1bos\nWf+dGoBV++dk9ZqSdZA18bnWmVZEBUxQ37u88W54iWcbsNrcjl5+Mx9+8m1iGPBs\nABwX+gRMg97L1bNRptr6liMK+UE+Rl8QnY/H1B7MAEJ+j0+TmT4JMTMTnj6lQjqC\nJERiChafAgMBAAECggEACHvaoSGQJ+7L/WbkfFgpVSBE3eA9mL2vheP0/t9S+mDX\neUP7mQdAd0WrUu27/ujZDwZ0znFeZZSetE6m+AiPgdx0UOBIr2RYqTqe5CEGmnOJ\nfDaNsy0GxTS9evMAEd/Lz59APqEmo45bey7eV36ysQNPi/jdFjN/yaMGX8CC5sD/\nycsA8q3mvXx93MMzPgE6XnUd/UzmC8GTE3PUadyVb1hVgDon5/jhTycCKW5RSWrz\ng/M1HpewsSTttDJdf8WMWI1Dm5pk8fOcueAyDqprqKSUEB94UPDEeWfL8y60O0in\n/FzyYH1ck0wwvZUC2enRzhvecjQst4OagGc42MVKPQKBgQD3IVYT6DRNctormCfW\namtA0R5v3yduCGdwZZQoEelRz6FrBWhDJu4tr83LMquBzHTVZeQlRJFlbD59h20k\nmYwxbAzp0QtiBEIuBkdqrPTuztVMjj6Z6oBNzQYaM+52vblCCQXr228tPTcKIzMF\nTWDqCSyu78bl29zaaP6Pb8tqLQKBgQDVmExUu95jwn0d227cqMItkybcUzIM4tsC\nDF8Jdn70hkfMNc/hWkU74ZU18cexFJGoV6pcn+MqPpkn2LVJWuGBmoRfdu7rb0Eq\n+PpBBlcgf2pvDAePFkFtT1W1fI0+bCZ1v021Wb13jCZl5rSWtNqai7PEKy/6lyS4\noI4ROgE/ewKBgQC8IqDJHulSXLFCpt8NGI72FT06pYP6/GLi6jHUH26kXZDhTIiH\nNsfz9/aPTs/KTMBVBPCefojB0ZnxLnwkdNCJf1yFVCN6RwuqxhTwXSNJ+iPf2BpI\nSoHKuN6AbDCKLP0wDHZ5i+AjbIrOKOXaj4HMKZfexaOBsdN8YpoI0G7nMQKBgQCC\nuyR8+D+1b2SE0bmY9PFkU5yFXaZUnMTPDCNe91fc8hMfug/yLf4SGI/q5IEEsUI1\ndvKenn27bXTwHoNW0nkTii9a/sBc+Us5sgn5opfRHCtYrFQ0D7sb3GLpIcKRYkBn\n8R7u0G5WrUETPZFqbGcgEEGG36gOCFRBbIOHp6j74QKBgQC9jZnzx6AXd0BhHcyH\nng7RdynK6+s3RIFou0aCpPyalIZC27jLMdI59PWjdwBuPjjkPtb3NSkMQRaMMS9u\nO5UfemkPo6Z+WL2g6RlJ+o7z50E1hXvJ5gmeaO1/90qiYXoNUMO1amWs3p7tu00y\nHX2xmjWf1RJwJJLKTvlV0wyAAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aemp-bk-report@aemp-nathan.iam.gserviceaccount.com",
+  "client_id": "105096899059972164468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aemp-bk-report%40aemp-nathan.iam.gserviceaccount.com"
+}
